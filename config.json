@@ -1,0 +1,8 @@
+{
+    "modules": [
+        "login_screens",
+        "register_screens",
+        "home_screens",
+        "chat_screens"
+    ]
+}
